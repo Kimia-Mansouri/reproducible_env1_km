@@ -8,8 +8,23 @@ toc: true
 
 ## R Environment Setup
 
-I just created a qmd file and saved it into scrit folder on RStudio and will be pushing it into GitHub.
+I just created a qmd file and saved it into script folder on RStudio and will be pushing it into GitHub.
 
 ```{r}
 #| eval: false
+```
+
+## Conda Environment Setup
+
+### Step 1: Searching for FastQC()
+
+Creating a new environment, installing fastqc and searching for the specific version of Fastqc we like.
+
+```{bash}
+#| eval: false
+condo deactivate genomics
+conda create --name week1 -y
+condo activate week1
+conda install -c bioconda fastqc=0.11.8 -y
+
 ```
