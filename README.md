@@ -1,2 +1,2 @@
 # reproducible_env1_km
-Omits Workflow Essentials Day 3
+Omics Workflow Essentials Day 3
