@@ -6,4 +6,10 @@ editor: visual
 toc: true
 ---
 
-## 
+## R Environment Setup
+
+I just created a qmd file and saved it into scrit folder on RStudio and will be pushing it into GitHub.
+
+```{r}
+#| eval: false
+```
