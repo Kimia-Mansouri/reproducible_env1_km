@@ -1,0 +1,8 @@
+name: partner_b_nanoplot
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - nanoplot
+prefix: /Users/abatta00/miniconda3/envs/partner_b_nanoplot
