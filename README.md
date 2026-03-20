@@ -2,3 +2,5 @@
 Omics Workflow Essentials Day 3
 This repository contains my Week 1 Day 3 computational environment setup and notes.
 THIS edit was made from GitHub
+
+Collaborator check: Ankur was here!
